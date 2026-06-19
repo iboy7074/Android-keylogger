@@ -1,0 +1,3 @@
+-keep class com.pentest.keyloggertool.** { *; }
+-dontwarn okhttp3.**
+-dontwarn okio.**
